@@ -1,0 +1,34 @@
+[
+  {
+    "username": "Mehdi",
+    "password": "$2b$10$LgM8e1vjTuoeTxfIyT4ZwuVAtracy6bXA/mlYyE61TGNlDwqm8L0C",
+    "avatarFallback": "Me",
+    "avatarImageSrc": "",
+    "description": "This is my description",
+    "title": "Mehdi"
+  },
+  {
+    "username": "Mostafa",
+    "password": "$2b$10$HvhJorzPRpQPxvmMov.LNupxV81qm6ZPsbeGYM/2G/2m/pli6fD.i",
+    "avatarFallback": "Mo",
+    "avatarImageSrc": "",
+    "description": "This is my description",
+    "title": "Mostafa"
+  },
+  {
+    "username": "Mohammad",
+    "password": "$2b$10$Wbew/7R78WLQvpbOpRDuveO5lIwBT3XoickBEOjeaI1ttcifTjFyu",
+    "avatarFallback": "Mo",
+    "avatarImageSrc": "",
+    "description": "This is my description",
+    "title": "Mohammad"
+  },
+  {
+    "username": "Somebody",
+    "password": "$2b$10$X7mIuW04PHGieFjrXi/tNev.295NvWKoLkon7PI4FKa5Lk4m5.Wwa",
+    "avatarFallback": "So",
+    "avatarImageSrc": "",
+    "description": "This is my description",
+    "title": "Somebody"
+  }
+]
