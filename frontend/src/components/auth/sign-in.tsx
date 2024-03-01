@@ -68,11 +68,6 @@ const SignIn = () => {
       <Card className="w-full">
         <CardHeader>
           <CardTitle>Sign In</CardTitle>
-          <CardDescription>
-            Test User 1 : <Code>user1@Vivinto.com</Code> | <Code>root</Code>
-            <br />
-            Test User 2 : <Code>user2@Vivinto.com</Code> | <Code>root</Code>
-          </CardDescription>
         </CardHeader>
         <CardContent className="space-y-2">
           <Form {...form}>

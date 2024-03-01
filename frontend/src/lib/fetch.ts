@@ -41,7 +41,7 @@ export const gate = async ({
     "Content-Type": "application/json",
     ...(getToken() && { token: getToken() }),
   };
-  const req = await fetch(import.meta.env.VITE_SERVER_URL + url, {
+  const req = await fetch(import.meta.env.BACKEND_URL + url, {
     method,
     headers,
     ...(body && { body: JSON.stringify(body) }),
